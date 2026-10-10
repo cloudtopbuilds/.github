@@ -12,9 +12,6 @@ Independent studio making Unity editor tools, game dev utilities and small games
 ![](https://streak-stats.demolab.com/?user=PanosKar96&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=PanosKar96&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ---
 [![](https://komarev.com/ghpvc/?username=PanosKar96&icon=0&color=0)](https://visitcount.itsvg.in)
 
