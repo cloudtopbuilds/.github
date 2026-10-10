@@ -33,12 +33,15 @@
 ## Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=PanosKar96&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PanosKar96&theme=dracula&hide_border=true&layout=compact&langs_count=6" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=PanosKar96&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&card_width=495" width="495" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PanosKar96&theme=dracula&hide_border=true" alt="Contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=PanosKar96&theme=dracula&hide_border=true&card_width=495" width="495" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PanosKar96&theme=dracula&hide_border=true&layout=compact&langs_count=6&card_width=495" width="495" alt="Top languages" />
 </p>
 
 ## Support the studio
