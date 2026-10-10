@@ -47,7 +47,7 @@
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy-alpha.vercel.app/?username=PanosKar96&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=CloudTopBuilds&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies" />
 </div>
 
 ## Support the studio
