@@ -44,6 +44,12 @@
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=PanosKar96&theme=dracula&hide_border=true&layout=compact&langs_count=6&card_width=495" width="495" alt="Top languages" />
 </p>
 
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy-alpha.vercel.app/?username=PanosKar96&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub trophies" />
+</div>
+
 ## Support the studio
 
 If our tools save you time, you can support development on Ko-fi. It pays for assets, software licenses and more hours spent building.
