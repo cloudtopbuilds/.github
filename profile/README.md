@@ -55,6 +55,5 @@ If our tools save you time, you can support development on Ko-fi. It pays for as
   <img src="./assets/footer.gif" width="552" alt="" />
 </p>
 
-<p align="center">
+<p align="center"><p />
   <img src="https://komarev.com/ghpvc/?username=CloudTopBuilds&label=Visitors&color=282A36&style=flat-square" />
-</p>
